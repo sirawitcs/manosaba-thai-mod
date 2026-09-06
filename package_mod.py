@@ -1,0 +1,40 @@
+from pathlib import Path
+import shutil, json, hashlib
+root = Path(r'C:/Users/kikik/manosaba_mod')
+game = Path(r'C:/Program Files (x86)/Steam/steamapps/common/manosaba_game')
+out = root / 'mod'
+if out.exists():
+    shutil.rmtree(out)
+aa_src = game / 'manosaba_Data/StreamingAssets/aa/StandaloneWindows64'
+aa_dst = out / 'manosaba_Data/StreamingAssets/aa/StandaloneWindows64'
+aa_dst.mkdir(parents=True)
+files = list(aa_src.glob('general-localization-zhhans-*.bundle')) + [
+    aa_src / 'general-data_assets_all.bundle',
+    aa_src / 'general-fonts-sourcehanserifsc_assets_all.bundle',
+]
+for f in files:
+    shutil.copy2(f, aa_dst / f.name)
+config = game / 'manosaba_Data/StreamingAssets/config.json'
+(out / 'manosaba_Data/StreamingAssets').mkdir(parents=True, exist_ok=True)
+shutil.copy2(config, out / 'manosaba_Data/StreamingAssets/config.json')
+readme = '''# Manosaba Thai Mod
+
+## ติดตั้ง
+1. ปิดเกม
+2. สำรองโฟลเดอร์ `manosaba_Data/StreamingAssets`
+3. คัดลอกโฟลเดอร์ `manosaba_Data` จากแพ็กนี้ไปวางทับโฟลเดอร์เกม
+4. เปิดเกม แล้วเลือกภาษา `zh-Hans`
+
+โฟลเดอร์ปลายทาง:
+`manosaba_Data/StreamingAssets/aa/StandaloneWindows64/`
+
+แพ็กนี้รวม localization ภาษาไทย ชื่อผู้พูดภาษาไทย และฟอนต์ไทย PUA แล้ว
+'''
+(out / 'README_TH.txt').write_text(readme, encoding='utf8')
+manifest = {'files': {}}
+for f in out.rglob('*'):
+    if f.is_file() and f.name != 'manifest.json':
+        rel = f.relative_to(out).as_posix()
+        manifest['files'][rel] = hashlib.sha256(f.read_bytes()).hexdigest()
+(out / 'manifest.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding='utf8')
+print({'files': len(manifest['files']), 'bundles': len(files), 'path': str(out), 'zhhans': len(list(aa_dst.glob('general-localization-zhhans-*.bundle'))), 'font': (aa_dst / 'general-fonts-sourcehanserifsc_assets_all.bundle').exists(), 'data': (aa_dst / 'general-data_assets_all.bundle').exists()})

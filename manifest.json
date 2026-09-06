@@ -1,0 +1,3082 @@
+[
+ {
+  "idx": 0,
+  "name": "System_BadEnd",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\000_System_BadEnd.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\System_BadEnd.txt",
+  "done": true
+ },
+ {
+  "idx": 1,
+  "name": "System_ResetWitchBook",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\001_System_ResetWitchBook.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\System_ResetWitchBook.txt",
+  "done": false
+ },
+ {
+  "idx": 2,
+  "name": "System_Subroutine",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\002_System_Subroutine.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\System_Subroutine.txt",
+  "done": false
+ },
+ {
+  "idx": 3,
+  "name": "System_Title",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\003_System_Title.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\System_Title.txt",
+  "done": false
+ },
+ {
+  "idx": 4,
+  "name": "Act01_Chapter01_Adv01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\004_Act01_Chapter01_Adv01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv01.txt",
+  "done": true
+ },
+ {
+  "idx": 5,
+  "name": "Act01_Chapter01_Adv02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\005_Act01_Chapter01_Adv02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv02.txt",
+  "done": false
+ },
+ {
+  "idx": 6,
+  "name": "Act01_Chapter01_Adv03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\006_Act01_Chapter01_Adv03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv03.txt",
+  "done": false
+ },
+ {
+  "idx": 7,
+  "name": "Act01_Chapter01_Adv04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\007_Act01_Chapter01_Adv04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv04.txt",
+  "done": false
+ },
+ {
+  "idx": 8,
+  "name": "Act01_Chapter01_Adv05",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\008_Act01_Chapter01_Adv05.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv05.txt",
+  "done": false
+ },
+ {
+  "idx": 9,
+  "name": "Act01_Chapter01_Adv06",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\009_Act01_Chapter01_Adv06.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv06.txt",
+  "done": false
+ },
+ {
+  "idx": 10,
+  "name": "Act01_Chapter01_Adv07",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\010_Act01_Chapter01_Adv07.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv07.txt",
+  "done": false
+ },
+ {
+  "idx": 11,
+  "name": "Act01_Chapter01_Adv08",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\011_Act01_Chapter01_Adv08.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv08.txt",
+  "done": false
+ },
+ {
+  "idx": 12,
+  "name": "Act01_Chapter01_Adv09",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\012_Act01_Chapter01_Adv09.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv09.txt",
+  "done": false
+ },
+ {
+  "idx": 13,
+  "name": "Act01_Chapter01_Adv10",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\013_Act01_Chapter01_Adv10.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv10.txt",
+  "done": false
+ },
+ {
+  "idx": 14,
+  "name": "Act01_Chapter01_Adv11",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\014_Act01_Chapter01_Adv11.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv11.txt",
+  "done": false
+ },
+ {
+  "idx": 15,
+  "name": "Act01_Chapter01_Adv12",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\015_Act01_Chapter01_Adv12.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv12.txt",
+  "done": false
+ },
+ {
+  "idx": 16,
+  "name": "Act01_Chapter01_Adv13",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\016_Act01_Chapter01_Adv13.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv13.txt",
+  "done": false
+ },
+ {
+  "idx": 17,
+  "name": "Act01_Chapter01_Adv14",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\017_Act01_Chapter01_Adv14.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv14.txt",
+  "done": false
+ },
+ {
+  "idx": 18,
+  "name": "Act01_Chapter01_Adv15",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\018_Act01_Chapter01_Adv15.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv15.txt",
+  "done": false
+ },
+ {
+  "idx": 19,
+  "name": "Act01_Chapter01_Adv16",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\019_Act01_Chapter01_Adv16.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv16.txt",
+  "done": false
+ },
+ {
+  "idx": 20,
+  "name": "Act01_Chapter01_Adv17",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\020_Act01_Chapter01_Adv17.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv17.txt",
+  "done": false
+ },
+ {
+  "idx": 21,
+  "name": "Act01_Chapter01_Adv18",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\021_Act01_Chapter01_Adv18.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv18.txt",
+  "done": false
+ },
+ {
+  "idx": 22,
+  "name": "Act01_Chapter01_Adv19",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\022_Act01_Chapter01_Adv19.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv19.txt",
+  "done": false
+ },
+ {
+  "idx": 23,
+  "name": "Act01_Chapter01_Adv20",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\023_Act01_Chapter01_Adv20.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv20.txt",
+  "done": false
+ },
+ {
+  "idx": 24,
+  "name": "Act01_Chapter01_Adv21",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\024_Act01_Chapter01_Adv21.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv21.txt",
+  "done": false
+ },
+ {
+  "idx": 25,
+  "name": "Act01_Chapter01_Adv22",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\025_Act01_Chapter01_Adv22.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv22.txt",
+  "done": false
+ },
+ {
+  "idx": 26,
+  "name": "Act01_Chapter01_Adv23",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\026_Act01_Chapter01_Adv23.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv23.txt",
+  "done": false
+ },
+ {
+  "idx": 27,
+  "name": "Act01_Chapter01_Adv24",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\027_Act01_Chapter01_Adv24.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv24.txt",
+  "done": false
+ },
+ {
+  "idx": 28,
+  "name": "Act01_Chapter01_Adv25",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\028_Act01_Chapter01_Adv25.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv25.txt",
+  "done": false
+ },
+ {
+  "idx": 29,
+  "name": "Act01_Chapter01_Adv26",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\029_Act01_Chapter01_Adv26.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv26.txt",
+  "done": false
+ },
+ {
+  "idx": 30,
+  "name": "Act01_Chapter01_Adv27",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\030_Act01_Chapter01_Adv27.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv27.txt",
+  "done": false
+ },
+ {
+  "idx": 31,
+  "name": "Act01_Chapter01_Adv28",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\031_Act01_Chapter01_Adv28.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv28.txt",
+  "done": false
+ },
+ {
+  "idx": 32,
+  "name": "Act01_Chapter01_Adv29",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\032_Act01_Chapter01_Adv29.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv29.txt",
+  "done": false
+ },
+ {
+  "idx": 33,
+  "name": "Act01_Chapter01_Adv30",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\033_Act01_Chapter01_Adv30.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv30.txt",
+  "done": false
+ },
+ {
+  "idx": 34,
+  "name": "Act01_Chapter01_Adv31",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\034_Act01_Chapter01_Adv31.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv31.txt",
+  "done": false
+ },
+ {
+  "idx": 35,
+  "name": "Act01_Chapter01_Adv32",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\035_Act01_Chapter01_Adv32.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv32.txt",
+  "done": false
+ },
+ {
+  "idx": 36,
+  "name": "Act01_Chapter01_Adv33",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\036_Act01_Chapter01_Adv33.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv33.txt",
+  "done": false
+ },
+ {
+  "idx": 37,
+  "name": "Act01_Chapter01_Adv34",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\037_Act01_Chapter01_Adv34.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv34.txt",
+  "done": false
+ },
+ {
+  "idx": 38,
+  "name": "Act01_Chapter01_Adv35",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\038_Act01_Chapter01_Adv35.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv35.txt",
+  "done": false
+ },
+ {
+  "idx": 39,
+  "name": "Act01_Chapter01_Adv36",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\039_Act01_Chapter01_Adv36.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Adv36.txt",
+  "done": false
+ },
+ {
+  "idx": 40,
+  "name": "Act01_Chapter01_Bad01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\040_Act01_Chapter01_Bad01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Bad01.txt",
+  "done": false
+ },
+ {
+  "idx": 41,
+  "name": "Act01_Chapter01_Bad02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\041_Act01_Chapter01_Bad02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Bad02.txt",
+  "done": false
+ },
+ {
+  "idx": 42,
+  "name": "Act01_Chapter01_Bad03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\042_Act01_Chapter01_Bad03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Bad03.txt",
+  "done": false
+ },
+ {
+  "idx": 43,
+  "name": "Act01_Chapter01_Bad04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\043_Act01_Chapter01_Bad04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Bad04.txt",
+  "done": false
+ },
+ {
+  "idx": 44,
+  "name": "Act01_Chapter01_Bad05",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\044_Act01_Chapter01_Bad05.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Bad05.txt",
+  "done": false
+ },
+ {
+  "idx": 45,
+  "name": "Act01_Chapter01_Bad06",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\045_Act01_Chapter01_Bad06.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Bad06.txt",
+  "done": false
+ },
+ {
+  "idx": 46,
+  "name": "Act01_Chapter01_Bad07",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\046_Act01_Chapter01_Bad07.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Bad07.txt",
+  "done": false
+ },
+ {
+  "idx": 47,
+  "name": "Act01_Chapter01_Bad08",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\047_Act01_Chapter01_Bad08.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Bad08.txt",
+  "done": false
+ },
+ {
+  "idx": 48,
+  "name": "Act01_Chapter01_Trial00",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\048_Act01_Chapter01_Trial00.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Trial00.txt",
+  "done": false
+ },
+ {
+  "idx": 49,
+  "name": "Act01_Chapter01_Trial01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\049_Act01_Chapter01_Trial01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Trial01.txt",
+  "done": false
+ },
+ {
+  "idx": 50,
+  "name": "Act01_Chapter01_Trial02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\050_Act01_Chapter01_Trial02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Trial02.txt",
+  "done": false
+ },
+ {
+  "idx": 51,
+  "name": "Act01_Chapter01_Trial03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\051_Act01_Chapter01_Trial03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Trial03.txt",
+  "done": false
+ },
+ {
+  "idx": 52,
+  "name": "Act01_Chapter01_Trial04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\052_Act01_Chapter01_Trial04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Trial04.txt",
+  "done": false
+ },
+ {
+  "idx": 53,
+  "name": "Act01_Chapter01_Trial05",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\053_Act01_Chapter01_Trial05.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Trial05.txt",
+  "done": false
+ },
+ {
+  "idx": 54,
+  "name": "Act01_Chapter01_Trial06",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\054_Act01_Chapter01_Trial06.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Trial06.txt",
+  "done": false
+ },
+ {
+  "idx": 55,
+  "name": "Act01_Chapter01_Trial07",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\055_Act01_Chapter01_Trial07.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Trial07.txt",
+  "done": false
+ },
+ {
+  "idx": 56,
+  "name": "Act01_Chapter01_Trial08",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\056_Act01_Chapter01_Trial08.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Trial08.txt",
+  "done": false
+ },
+ {
+  "idx": 57,
+  "name": "Act01_Chapter01_Trial09",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\057_Act01_Chapter01_Trial09.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Trial09.txt",
+  "done": false
+ },
+ {
+  "idx": 58,
+  "name": "Act01_Chapter01_Trial10",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\058_Act01_Chapter01_Trial10.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Trial10.txt",
+  "done": false
+ },
+ {
+  "idx": 59,
+  "name": "Act01_Chapter01_Trial11",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\059_Act01_Chapter01_Trial11.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Trial11.txt",
+  "done": false
+ },
+ {
+  "idx": 60,
+  "name": "Act01_Chapter01_Trial12",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\060_Act01_Chapter01_Trial12.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Trial12.txt",
+  "done": false
+ },
+ {
+  "idx": 61,
+  "name": "Act01_Chapter01_Trial13",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\061_Act01_Chapter01_Trial13.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Trial13.txt",
+  "done": false
+ },
+ {
+  "idx": 62,
+  "name": "Act01_Chapter01_Trial14",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\062_Act01_Chapter01_Trial14.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Trial14.txt",
+  "done": false
+ },
+ {
+  "idx": 63,
+  "name": "Act01_Chapter01_Trial15",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\063_Act01_Chapter01_Trial15.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_Trial15.txt",
+  "done": false
+ },
+ {
+  "idx": 64,
+  "name": "Act01_Chapter01_TrialInit",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\064_Act01_Chapter01_TrialInit.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter01_TrialInit.txt",
+  "done": false
+ },
+ {
+  "idx": 65,
+  "name": "Act01_Chapter02_Adv01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\065_Act01_Chapter02_Adv01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv01.txt",
+  "done": false
+ },
+ {
+  "idx": 66,
+  "name": "Act01_Chapter02_Adv02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\066_Act01_Chapter02_Adv02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv02.txt",
+  "done": false
+ },
+ {
+  "idx": 67,
+  "name": "Act01_Chapter02_Adv03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\067_Act01_Chapter02_Adv03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv03.txt",
+  "done": false
+ },
+ {
+  "idx": 68,
+  "name": "Act01_Chapter02_Adv04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\068_Act01_Chapter02_Adv04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv04.txt",
+  "done": false
+ },
+ {
+  "idx": 69,
+  "name": "Act01_Chapter02_Adv05",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\069_Act01_Chapter02_Adv05.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv05.txt",
+  "done": false
+ },
+ {
+  "idx": 70,
+  "name": "Act01_Chapter02_Adv06",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\070_Act01_Chapter02_Adv06.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv06.txt",
+  "done": false
+ },
+ {
+  "idx": 71,
+  "name": "Act01_Chapter02_Adv07",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\071_Act01_Chapter02_Adv07.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv07.txt",
+  "done": false
+ },
+ {
+  "idx": 72,
+  "name": "Act01_Chapter02_Adv08",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\072_Act01_Chapter02_Adv08.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv08.txt",
+  "done": false
+ },
+ {
+  "idx": 73,
+  "name": "Act01_Chapter02_Adv09",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\073_Act01_Chapter02_Adv09.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv09.txt",
+  "done": false
+ },
+ {
+  "idx": 74,
+  "name": "Act01_Chapter02_Adv10",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\074_Act01_Chapter02_Adv10.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv10.txt",
+  "done": false
+ },
+ {
+  "idx": 75,
+  "name": "Act01_Chapter02_Adv11",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\075_Act01_Chapter02_Adv11.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv11.txt",
+  "done": false
+ },
+ {
+  "idx": 76,
+  "name": "Act01_Chapter02_Adv12",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\076_Act01_Chapter02_Adv12.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv12.txt",
+  "done": false
+ },
+ {
+  "idx": 77,
+  "name": "Act01_Chapter02_Adv13",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\077_Act01_Chapter02_Adv13.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv13.txt",
+  "done": false
+ },
+ {
+  "idx": 78,
+  "name": "Act01_Chapter02_Adv14",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\078_Act01_Chapter02_Adv14.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv14.txt",
+  "done": false
+ },
+ {
+  "idx": 79,
+  "name": "Act01_Chapter02_Adv15",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\079_Act01_Chapter02_Adv15.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv15.txt",
+  "done": false
+ },
+ {
+  "idx": 80,
+  "name": "Act01_Chapter02_Adv16",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\080_Act01_Chapter02_Adv16.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv16.txt",
+  "done": false
+ },
+ {
+  "idx": 81,
+  "name": "Act01_Chapter02_Adv17",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\081_Act01_Chapter02_Adv17.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv17.txt",
+  "done": false
+ },
+ {
+  "idx": 82,
+  "name": "Act01_Chapter02_Adv18",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\082_Act01_Chapter02_Adv18.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv18.txt",
+  "done": false
+ },
+ {
+  "idx": 83,
+  "name": "Act01_Chapter02_Adv19",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\083_Act01_Chapter02_Adv19.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv19.txt",
+  "done": false
+ },
+ {
+  "idx": 84,
+  "name": "Act01_Chapter02_Adv20",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\084_Act01_Chapter02_Adv20.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv20.txt",
+  "done": false
+ },
+ {
+  "idx": 85,
+  "name": "Act01_Chapter02_Adv21",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\085_Act01_Chapter02_Adv21.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv21.txt",
+  "done": false
+ },
+ {
+  "idx": 86,
+  "name": "Act01_Chapter02_Adv22",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\086_Act01_Chapter02_Adv22.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv22.txt",
+  "done": false
+ },
+ {
+  "idx": 87,
+  "name": "Act01_Chapter02_Adv23",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\087_Act01_Chapter02_Adv23.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv23.txt",
+  "done": false
+ },
+ {
+  "idx": 88,
+  "name": "Act01_Chapter02_Adv24",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\088_Act01_Chapter02_Adv24.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv24.txt",
+  "done": false
+ },
+ {
+  "idx": 89,
+  "name": "Act01_Chapter02_Adv25",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\089_Act01_Chapter02_Adv25.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv25.txt",
+  "done": false
+ },
+ {
+  "idx": 90,
+  "name": "Act01_Chapter02_Adv26",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\090_Act01_Chapter02_Adv26.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv26.txt",
+  "done": false
+ },
+ {
+  "idx": 91,
+  "name": "Act01_Chapter02_Adv27",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\091_Act01_Chapter02_Adv27.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv27.txt",
+  "done": false
+ },
+ {
+  "idx": 92,
+  "name": "Act01_Chapter02_Adv28",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\092_Act01_Chapter02_Adv28.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv28.txt",
+  "done": false
+ },
+ {
+  "idx": 93,
+  "name": "Act01_Chapter02_Adv29",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\093_Act01_Chapter02_Adv29.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Adv29.txt",
+  "done": false
+ },
+ {
+  "idx": 94,
+  "name": "Act01_Chapter02_Bad01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\094_Act01_Chapter02_Bad01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Bad01.txt",
+  "done": false
+ },
+ {
+  "idx": 95,
+  "name": "Act01_Chapter02_Bad02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\095_Act01_Chapter02_Bad02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Bad02.txt",
+  "done": false
+ },
+ {
+  "idx": 96,
+  "name": "Act01_Chapter02_Trial00",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\096_Act01_Chapter02_Trial00.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Trial00.txt",
+  "done": false
+ },
+ {
+  "idx": 97,
+  "name": "Act01_Chapter02_Trial01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\097_Act01_Chapter02_Trial01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Trial01.txt",
+  "done": false
+ },
+ {
+  "idx": 98,
+  "name": "Act01_Chapter02_Trial02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\098_Act01_Chapter02_Trial02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Trial02.txt",
+  "done": false
+ },
+ {
+  "idx": 99,
+  "name": "Act01_Chapter02_Trial03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\099_Act01_Chapter02_Trial03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Trial03.txt",
+  "done": false
+ },
+ {
+  "idx": 100,
+  "name": "Act01_Chapter02_Trial04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\100_Act01_Chapter02_Trial04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Trial04.txt",
+  "done": false
+ },
+ {
+  "idx": 101,
+  "name": "Act01_Chapter02_Trial05",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\101_Act01_Chapter02_Trial05.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Trial05.txt",
+  "done": false
+ },
+ {
+  "idx": 102,
+  "name": "Act01_Chapter02_Trial06",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\102_Act01_Chapter02_Trial06.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Trial06.txt",
+  "done": false
+ },
+ {
+  "idx": 103,
+  "name": "Act01_Chapter02_Trial07",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\103_Act01_Chapter02_Trial07.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Trial07.txt",
+  "done": false
+ },
+ {
+  "idx": 104,
+  "name": "Act01_Chapter02_Trial08",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\104_Act01_Chapter02_Trial08.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Trial08.txt",
+  "done": false
+ },
+ {
+  "idx": 105,
+  "name": "Act01_Chapter02_Trial09",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\105_Act01_Chapter02_Trial09.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Trial09.txt",
+  "done": false
+ },
+ {
+  "idx": 106,
+  "name": "Act01_Chapter02_Trial10",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\106_Act01_Chapter02_Trial10.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Trial10.txt",
+  "done": false
+ },
+ {
+  "idx": 107,
+  "name": "Act01_Chapter02_Trial11",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\107_Act01_Chapter02_Trial11.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Trial11.txt",
+  "done": false
+ },
+ {
+  "idx": 108,
+  "name": "Act01_Chapter02_Trial12",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\108_Act01_Chapter02_Trial12.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Trial12.txt",
+  "done": false
+ },
+ {
+  "idx": 109,
+  "name": "Act01_Chapter02_Trial13",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\109_Act01_Chapter02_Trial13.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Trial13.txt",
+  "done": false
+ },
+ {
+  "idx": 110,
+  "name": "Act01_Chapter02_Trial14",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\110_Act01_Chapter02_Trial14.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Trial14.txt",
+  "done": false
+ },
+ {
+  "idx": 111,
+  "name": "Act01_Chapter02_Trial15",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\111_Act01_Chapter02_Trial15.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_Trial15.txt",
+  "done": false
+ },
+ {
+  "idx": 112,
+  "name": "Act01_Chapter02_TrialInit",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\112_Act01_Chapter02_TrialInit.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter02_TrialInit.txt",
+  "done": false
+ },
+ {
+  "idx": 113,
+  "name": "Act01_Chapter03_Adv01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\113_Act01_Chapter03_Adv01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv01.txt",
+  "done": false
+ },
+ {
+  "idx": 114,
+  "name": "Act01_Chapter03_Adv02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\114_Act01_Chapter03_Adv02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv02.txt",
+  "done": false
+ },
+ {
+  "idx": 115,
+  "name": "Act01_Chapter03_Adv03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\115_Act01_Chapter03_Adv03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv03.txt",
+  "done": false
+ },
+ {
+  "idx": 116,
+  "name": "Act01_Chapter03_Adv04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\116_Act01_Chapter03_Adv04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv04.txt",
+  "done": false
+ },
+ {
+  "idx": 117,
+  "name": "Act01_Chapter03_Adv05",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\117_Act01_Chapter03_Adv05.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv05.txt",
+  "done": false
+ },
+ {
+  "idx": 118,
+  "name": "Act01_Chapter03_Adv06",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\118_Act01_Chapter03_Adv06.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv06.txt",
+  "done": false
+ },
+ {
+  "idx": 119,
+  "name": "Act01_Chapter03_Adv07",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\119_Act01_Chapter03_Adv07.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv07.txt",
+  "done": false
+ },
+ {
+  "idx": 120,
+  "name": "Act01_Chapter03_Adv08",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\120_Act01_Chapter03_Adv08.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv08.txt",
+  "done": false
+ },
+ {
+  "idx": 121,
+  "name": "Act01_Chapter03_Adv09",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\121_Act01_Chapter03_Adv09.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv09.txt",
+  "done": false
+ },
+ {
+  "idx": 122,
+  "name": "Act01_Chapter03_Adv10",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\122_Act01_Chapter03_Adv10.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv10.txt",
+  "done": false
+ },
+ {
+  "idx": 123,
+  "name": "Act01_Chapter03_Adv11",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\123_Act01_Chapter03_Adv11.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv11.txt",
+  "done": false
+ },
+ {
+  "idx": 124,
+  "name": "Act01_Chapter03_Adv12",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\124_Act01_Chapter03_Adv12.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv12.txt",
+  "done": false
+ },
+ {
+  "idx": 125,
+  "name": "Act01_Chapter03_Adv13",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\125_Act01_Chapter03_Adv13.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv13.txt",
+  "done": false
+ },
+ {
+  "idx": 126,
+  "name": "Act01_Chapter03_Adv14",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\126_Act01_Chapter03_Adv14.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv14.txt",
+  "done": false
+ },
+ {
+  "idx": 127,
+  "name": "Act01_Chapter03_Adv15",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\127_Act01_Chapter03_Adv15.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv15.txt",
+  "done": false
+ },
+ {
+  "idx": 128,
+  "name": "Act01_Chapter03_Adv16",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\128_Act01_Chapter03_Adv16.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv16.txt",
+  "done": false
+ },
+ {
+  "idx": 129,
+  "name": "Act01_Chapter03_Adv17",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\129_Act01_Chapter03_Adv17.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv17.txt",
+  "done": false
+ },
+ {
+  "idx": 130,
+  "name": "Act01_Chapter03_Adv18",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\130_Act01_Chapter03_Adv18.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv18.txt",
+  "done": false
+ },
+ {
+  "idx": 131,
+  "name": "Act01_Chapter03_Adv19",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\131_Act01_Chapter03_Adv19.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv19.txt",
+  "done": false
+ },
+ {
+  "idx": 132,
+  "name": "Act01_Chapter03_Adv20",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\132_Act01_Chapter03_Adv20.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv20.txt",
+  "done": false
+ },
+ {
+  "idx": 133,
+  "name": "Act01_Chapter03_Adv21",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\133_Act01_Chapter03_Adv21.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv21.txt",
+  "done": false
+ },
+ {
+  "idx": 134,
+  "name": "Act01_Chapter03_Adv22",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\134_Act01_Chapter03_Adv22.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv22.txt",
+  "done": false
+ },
+ {
+  "idx": 135,
+  "name": "Act01_Chapter03_Adv23",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\135_Act01_Chapter03_Adv23.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv23.txt",
+  "done": false
+ },
+ {
+  "idx": 136,
+  "name": "Act01_Chapter03_Adv24",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\136_Act01_Chapter03_Adv24.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv24.txt",
+  "done": false
+ },
+ {
+  "idx": 137,
+  "name": "Act01_Chapter03_Adv25",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\137_Act01_Chapter03_Adv25.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv25.txt",
+  "done": false
+ },
+ {
+  "idx": 138,
+  "name": "Act01_Chapter03_Adv26",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\138_Act01_Chapter03_Adv26.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv26.txt",
+  "done": false
+ },
+ {
+  "idx": 139,
+  "name": "Act01_Chapter03_Adv27",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\139_Act01_Chapter03_Adv27.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv27.txt",
+  "done": false
+ },
+ {
+  "idx": 140,
+  "name": "Act01_Chapter03_Adv28",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\140_Act01_Chapter03_Adv28.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Adv28.txt",
+  "done": false
+ },
+ {
+  "idx": 141,
+  "name": "Act01_Chapter03_Bad01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\141_Act01_Chapter03_Bad01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Bad01.txt",
+  "done": false
+ },
+ {
+  "idx": 142,
+  "name": "Act01_Chapter03_Bad02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\142_Act01_Chapter03_Bad02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Bad02.txt",
+  "done": false
+ },
+ {
+  "idx": 143,
+  "name": "Act01_Chapter03_Trial00",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\143_Act01_Chapter03_Trial00.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Trial00.txt",
+  "done": false
+ },
+ {
+  "idx": 144,
+  "name": "Act01_Chapter03_Trial01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\144_Act01_Chapter03_Trial01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Trial01.txt",
+  "done": false
+ },
+ {
+  "idx": 145,
+  "name": "Act01_Chapter03_Trial02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\145_Act01_Chapter03_Trial02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Trial02.txt",
+  "done": false
+ },
+ {
+  "idx": 146,
+  "name": "Act01_Chapter03_Trial03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\146_Act01_Chapter03_Trial03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Trial03.txt",
+  "done": false
+ },
+ {
+  "idx": 147,
+  "name": "Act01_Chapter03_Trial04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\147_Act01_Chapter03_Trial04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Trial04.txt",
+  "done": false
+ },
+ {
+  "idx": 148,
+  "name": "Act01_Chapter03_Trial05",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\148_Act01_Chapter03_Trial05.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Trial05.txt",
+  "done": false
+ },
+ {
+  "idx": 149,
+  "name": "Act01_Chapter03_Trial06",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\149_Act01_Chapter03_Trial06.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Trial06.txt",
+  "done": false
+ },
+ {
+  "idx": 150,
+  "name": "Act01_Chapter03_Trial07",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\150_Act01_Chapter03_Trial07.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Trial07.txt",
+  "done": false
+ },
+ {
+  "idx": 151,
+  "name": "Act01_Chapter03_Trial08",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\151_Act01_Chapter03_Trial08.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Trial08.txt",
+  "done": false
+ },
+ {
+  "idx": 152,
+  "name": "Act01_Chapter03_Trial09",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\152_Act01_Chapter03_Trial09.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Trial09.txt",
+  "done": false
+ },
+ {
+  "idx": 153,
+  "name": "Act01_Chapter03_Trial10",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\153_Act01_Chapter03_Trial10.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Trial10.txt",
+  "done": false
+ },
+ {
+  "idx": 154,
+  "name": "Act01_Chapter03_Trial11",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\154_Act01_Chapter03_Trial11.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Trial11.txt",
+  "done": false
+ },
+ {
+  "idx": 155,
+  "name": "Act01_Chapter03_Trial12",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\155_Act01_Chapter03_Trial12.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Trial12.txt",
+  "done": false
+ },
+ {
+  "idx": 156,
+  "name": "Act01_Chapter03_Trial13",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\156_Act01_Chapter03_Trial13.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Trial13.txt",
+  "done": false
+ },
+ {
+  "idx": 157,
+  "name": "Act01_Chapter03_Trial14",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\157_Act01_Chapter03_Trial14.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_Trial14.txt",
+  "done": false
+ },
+ {
+  "idx": 158,
+  "name": "Act01_Chapter03_TrialInit",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\158_Act01_Chapter03_TrialInit.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter03_TrialInit.txt",
+  "done": false
+ },
+ {
+  "idx": 159,
+  "name": "Act01_Chapter04_Adv01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\159_Act01_Chapter04_Adv01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Adv01.txt",
+  "done": false
+ },
+ {
+  "idx": 160,
+  "name": "Act01_Chapter04_Adv02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\160_Act01_Chapter04_Adv02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Adv02.txt",
+  "done": false
+ },
+ {
+  "idx": 161,
+  "name": "Act01_Chapter04_Adv03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\161_Act01_Chapter04_Adv03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Adv03.txt",
+  "done": false
+ },
+ {
+  "idx": 162,
+  "name": "Act01_Chapter04_Adv04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\162_Act01_Chapter04_Adv04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Adv04.txt",
+  "done": false
+ },
+ {
+  "idx": 163,
+  "name": "Act01_Chapter04_Adv05",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\163_Act01_Chapter04_Adv05.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Adv05.txt",
+  "done": false
+ },
+ {
+  "idx": 164,
+  "name": "Act01_Chapter04_Adv06",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\164_Act01_Chapter04_Adv06.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Adv06.txt",
+  "done": false
+ },
+ {
+  "idx": 165,
+  "name": "Act01_Chapter04_Adv07",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\165_Act01_Chapter04_Adv07.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Adv07.txt",
+  "done": false
+ },
+ {
+  "idx": 166,
+  "name": "Act01_Chapter04_Adv08",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\166_Act01_Chapter04_Adv08.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Adv08.txt",
+  "done": false
+ },
+ {
+  "idx": 167,
+  "name": "Act01_Chapter04_Adv09",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\167_Act01_Chapter04_Adv09.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Adv09.txt",
+  "done": false
+ },
+ {
+  "idx": 168,
+  "name": "Act01_Chapter04_Adv10",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\168_Act01_Chapter04_Adv10.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Adv10.txt",
+  "done": false
+ },
+ {
+  "idx": 169,
+  "name": "Act01_Chapter04_Adv11",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\169_Act01_Chapter04_Adv11.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Adv11.txt",
+  "done": false
+ },
+ {
+  "idx": 170,
+  "name": "Act01_Chapter04_Adv12",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\170_Act01_Chapter04_Adv12.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Adv12.txt",
+  "done": false
+ },
+ {
+  "idx": 171,
+  "name": "Act01_Chapter04_Adv13",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\171_Act01_Chapter04_Adv13.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Adv13.txt",
+  "done": false
+ },
+ {
+  "idx": 172,
+  "name": "Act01_Chapter04_Bad01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\172_Act01_Chapter04_Bad01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Bad01.txt",
+  "done": false
+ },
+ {
+  "idx": 173,
+  "name": "Act01_Chapter04_Trial00",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\173_Act01_Chapter04_Trial00.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Trial00.txt",
+  "done": false
+ },
+ {
+  "idx": 174,
+  "name": "Act01_Chapter04_Trial01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\174_Act01_Chapter04_Trial01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Trial01.txt",
+  "done": false
+ },
+ {
+  "idx": 175,
+  "name": "Act01_Chapter04_Trial02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\175_Act01_Chapter04_Trial02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Trial02.txt",
+  "done": false
+ },
+ {
+  "idx": 176,
+  "name": "Act01_Chapter04_Trial03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\176_Act01_Chapter04_Trial03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Trial03.txt",
+  "done": false
+ },
+ {
+  "idx": 177,
+  "name": "Act01_Chapter04_Trial04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\177_Act01_Chapter04_Trial04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Trial04.txt",
+  "done": false
+ },
+ {
+  "idx": 178,
+  "name": "Act01_Chapter04_Trial05",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\178_Act01_Chapter04_Trial05.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Trial05.txt",
+  "done": false
+ },
+ {
+  "idx": 179,
+  "name": "Act01_Chapter04_Trial06",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\179_Act01_Chapter04_Trial06.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Trial06.txt",
+  "done": false
+ },
+ {
+  "idx": 180,
+  "name": "Act01_Chapter04_Trial07",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\180_Act01_Chapter04_Trial07.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Trial07.txt",
+  "done": false
+ },
+ {
+  "idx": 181,
+  "name": "Act01_Chapter04_Trial08",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\181_Act01_Chapter04_Trial08.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Trial08.txt",
+  "done": false
+ },
+ {
+  "idx": 182,
+  "name": "Act01_Chapter04_Trial09",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\182_Act01_Chapter04_Trial09.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Trial09.txt",
+  "done": false
+ },
+ {
+  "idx": 183,
+  "name": "Act01_Chapter04_Trial10",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\183_Act01_Chapter04_Trial10.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Trial10.txt",
+  "done": false
+ },
+ {
+  "idx": 184,
+  "name": "Act01_Chapter04_Trial11",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\184_Act01_Chapter04_Trial11.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Trial11.txt",
+  "done": false
+ },
+ {
+  "idx": 185,
+  "name": "Act01_Chapter04_Trial12",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\185_Act01_Chapter04_Trial12.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_Trial12.txt",
+  "done": false
+ },
+ {
+  "idx": 186,
+  "name": "Act01_Chapter04_TrialInit",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\186_Act01_Chapter04_TrialInit.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter04_TrialInit.txt",
+  "done": false
+ },
+ {
+  "idx": 187,
+  "name": "Act01_Chapter05_Adv01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\187_Act01_Chapter05_Adv01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Adv01.txt",
+  "done": false
+ },
+ {
+  "idx": 188,
+  "name": "Act01_Chapter05_Adv02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\188_Act01_Chapter05_Adv02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Adv02.txt",
+  "done": false
+ },
+ {
+  "idx": 189,
+  "name": "Act01_Chapter05_Adv03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\189_Act01_Chapter05_Adv03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Adv03.txt",
+  "done": false
+ },
+ {
+  "idx": 190,
+  "name": "Act01_Chapter05_Adv04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\190_Act01_Chapter05_Adv04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Adv04.txt",
+  "done": false
+ },
+ {
+  "idx": 191,
+  "name": "Act01_Chapter05_Adv05",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\191_Act01_Chapter05_Adv05.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Adv05.txt",
+  "done": false
+ },
+ {
+  "idx": 192,
+  "name": "Act01_Chapter05_Adv06",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\192_Act01_Chapter05_Adv06.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Adv06.txt",
+  "done": false
+ },
+ {
+  "idx": 193,
+  "name": "Act01_Chapter05_Adv07",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\193_Act01_Chapter05_Adv07.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Adv07.txt",
+  "done": false
+ },
+ {
+  "idx": 194,
+  "name": "Act01_Chapter05_Adv08",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\194_Act01_Chapter05_Adv08.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Adv08.txt",
+  "done": false
+ },
+ {
+  "idx": 195,
+  "name": "Act01_Chapter05_Adv09",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\195_Act01_Chapter05_Adv09.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Adv09.txt",
+  "done": false
+ },
+ {
+  "idx": 196,
+  "name": "Act01_Chapter05_Adv10",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\196_Act01_Chapter05_Adv10.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Adv10.txt",
+  "done": false
+ },
+ {
+  "idx": 197,
+  "name": "Act01_Chapter05_Adv11",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\197_Act01_Chapter05_Adv11.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Adv11.txt",
+  "done": false
+ },
+ {
+  "idx": 198,
+  "name": "Act01_Chapter05_Bad01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\198_Act01_Chapter05_Bad01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Bad01.txt",
+  "done": false
+ },
+ {
+  "idx": 199,
+  "name": "Act01_Chapter05_Bad02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\199_Act01_Chapter05_Bad02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Bad02.txt",
+  "done": false
+ },
+ {
+  "idx": 200,
+  "name": "Act01_Chapter05_Trial00",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\200_Act01_Chapter05_Trial00.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Trial00.txt",
+  "done": false
+ },
+ {
+  "idx": 201,
+  "name": "Act01_Chapter05_Trial01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\201_Act01_Chapter05_Trial01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Trial01.txt",
+  "done": false
+ },
+ {
+  "idx": 202,
+  "name": "Act01_Chapter05_Trial02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\202_Act01_Chapter05_Trial02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Trial02.txt",
+  "done": false
+ },
+ {
+  "idx": 203,
+  "name": "Act01_Chapter05_Trial03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\203_Act01_Chapter05_Trial03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Trial03.txt",
+  "done": false
+ },
+ {
+  "idx": 204,
+  "name": "Act01_Chapter05_Trial04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\204_Act01_Chapter05_Trial04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Trial04.txt",
+  "done": false
+ },
+ {
+  "idx": 205,
+  "name": "Act01_Chapter05_Trial05",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\205_Act01_Chapter05_Trial05.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Trial05.txt",
+  "done": false
+ },
+ {
+  "idx": 206,
+  "name": "Act01_Chapter05_Trial06",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\206_Act01_Chapter05_Trial06.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Trial06.txt",
+  "done": false
+ },
+ {
+  "idx": 207,
+  "name": "Act01_Chapter05_Trial07",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\207_Act01_Chapter05_Trial07.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Trial07.txt",
+  "done": false
+ },
+ {
+  "idx": 208,
+  "name": "Act01_Chapter05_Trial08",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\208_Act01_Chapter05_Trial08.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Trial08.txt",
+  "done": false
+ },
+ {
+  "idx": 209,
+  "name": "Act01_Chapter05_Trial09",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\209_Act01_Chapter05_Trial09.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Trial09.txt",
+  "done": false
+ },
+ {
+  "idx": 210,
+  "name": "Act01_Chapter05_Trial10",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\210_Act01_Chapter05_Trial10.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_Trial10.txt",
+  "done": false
+ },
+ {
+  "idx": 211,
+  "name": "Act01_Chapter05_TrialInit",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\211_Act01_Chapter05_TrialInit.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act01_Chapter05_TrialInit.txt",
+  "done": false
+ },
+ {
+  "idx": 212,
+  "name": "Act02_Chapter01_Adv01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\212_Act02_Chapter01_Adv01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv01.txt",
+  "done": false
+ },
+ {
+  "idx": 213,
+  "name": "Act02_Chapter01_Adv02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\213_Act02_Chapter01_Adv02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv02.txt",
+  "done": false
+ },
+ {
+  "idx": 214,
+  "name": "Act02_Chapter01_Adv03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\214_Act02_Chapter01_Adv03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv03.txt",
+  "done": false
+ },
+ {
+  "idx": 215,
+  "name": "Act02_Chapter01_Adv04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\215_Act02_Chapter01_Adv04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv04.txt",
+  "done": false
+ },
+ {
+  "idx": 216,
+  "name": "Act02_Chapter01_Adv05",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\216_Act02_Chapter01_Adv05.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv05.txt",
+  "done": false
+ },
+ {
+  "idx": 217,
+  "name": "Act02_Chapter01_Adv06",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\217_Act02_Chapter01_Adv06.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv06.txt",
+  "done": false
+ },
+ {
+  "idx": 218,
+  "name": "Act02_Chapter01_Adv07",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\218_Act02_Chapter01_Adv07.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv07.txt",
+  "done": false
+ },
+ {
+  "idx": 219,
+  "name": "Act02_Chapter01_Adv08",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\219_Act02_Chapter01_Adv08.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv08.txt",
+  "done": false
+ },
+ {
+  "idx": 220,
+  "name": "Act02_Chapter01_Adv09",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\220_Act02_Chapter01_Adv09.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv09.txt",
+  "done": false
+ },
+ {
+  "idx": 221,
+  "name": "Act02_Chapter01_Adv10",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\221_Act02_Chapter01_Adv10.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv10.txt",
+  "done": false
+ },
+ {
+  "idx": 222,
+  "name": "Act02_Chapter01_Adv11",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\222_Act02_Chapter01_Adv11.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv11.txt",
+  "done": false
+ },
+ {
+  "idx": 223,
+  "name": "Act02_Chapter01_Adv12",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\223_Act02_Chapter01_Adv12.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv12.txt",
+  "done": false
+ },
+ {
+  "idx": 224,
+  "name": "Act02_Chapter01_Adv13",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\224_Act02_Chapter01_Adv13.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv13.txt",
+  "done": false
+ },
+ {
+  "idx": 225,
+  "name": "Act02_Chapter01_Adv14",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\225_Act02_Chapter01_Adv14.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv14.txt",
+  "done": false
+ },
+ {
+  "idx": 226,
+  "name": "Act02_Chapter01_Adv15",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\226_Act02_Chapter01_Adv15.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv15.txt",
+  "done": false
+ },
+ {
+  "idx": 227,
+  "name": "Act02_Chapter01_Adv16",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\227_Act02_Chapter01_Adv16.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv16.txt",
+  "done": false
+ },
+ {
+  "idx": 228,
+  "name": "Act02_Chapter01_Adv17",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\228_Act02_Chapter01_Adv17.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv17.txt",
+  "done": false
+ },
+ {
+  "idx": 229,
+  "name": "Act02_Chapter01_Adv18",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\229_Act02_Chapter01_Adv18.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv18.txt",
+  "done": false
+ },
+ {
+  "idx": 230,
+  "name": "Act02_Chapter01_Adv19",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\230_Act02_Chapter01_Adv19.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv19.txt",
+  "done": false
+ },
+ {
+  "idx": 231,
+  "name": "Act02_Chapter01_Adv20",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\231_Act02_Chapter01_Adv20.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv20.txt",
+  "done": false
+ },
+ {
+  "idx": 232,
+  "name": "Act02_Chapter01_Adv21",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\232_Act02_Chapter01_Adv21.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv21.txt",
+  "done": false
+ },
+ {
+  "idx": 233,
+  "name": "Act02_Chapter01_Adv22",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\233_Act02_Chapter01_Adv22.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv22.txt",
+  "done": false
+ },
+ {
+  "idx": 234,
+  "name": "Act02_Chapter01_Adv23",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\234_Act02_Chapter01_Adv23.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv23.txt",
+  "done": false
+ },
+ {
+  "idx": 235,
+  "name": "Act02_Chapter01_Adv24",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\235_Act02_Chapter01_Adv24.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv24.txt",
+  "done": false
+ },
+ {
+  "idx": 236,
+  "name": "Act02_Chapter01_Adv25",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\236_Act02_Chapter01_Adv25.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv25.txt",
+  "done": false
+ },
+ {
+  "idx": 237,
+  "name": "Act02_Chapter01_Adv26",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\237_Act02_Chapter01_Adv26.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv26.txt",
+  "done": false
+ },
+ {
+  "idx": 238,
+  "name": "Act02_Chapter01_Adv27",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\238_Act02_Chapter01_Adv27.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Adv27.txt",
+  "done": false
+ },
+ {
+  "idx": 239,
+  "name": "Act02_Chapter01_Bad01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\239_Act02_Chapter01_Bad01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Bad01.txt",
+  "done": false
+ },
+ {
+  "idx": 240,
+  "name": "Act02_Chapter01_Bad02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\240_Act02_Chapter01_Bad02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Bad02.txt",
+  "done": false
+ },
+ {
+  "idx": 241,
+  "name": "Act02_Chapter01_Trial00",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\241_Act02_Chapter01_Trial00.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Trial00.txt",
+  "done": false
+ },
+ {
+  "idx": 242,
+  "name": "Act02_Chapter01_Trial01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\242_Act02_Chapter01_Trial01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Trial01.txt",
+  "done": false
+ },
+ {
+  "idx": 243,
+  "name": "Act02_Chapter01_Trial02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\243_Act02_Chapter01_Trial02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Trial02.txt",
+  "done": false
+ },
+ {
+  "idx": 244,
+  "name": "Act02_Chapter01_Trial03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\244_Act02_Chapter01_Trial03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Trial03.txt",
+  "done": false
+ },
+ {
+  "idx": 245,
+  "name": "Act02_Chapter01_Trial04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\245_Act02_Chapter01_Trial04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Trial04.txt",
+  "done": false
+ },
+ {
+  "idx": 246,
+  "name": "Act02_Chapter01_Trial05",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\246_Act02_Chapter01_Trial05.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Trial05.txt",
+  "done": false
+ },
+ {
+  "idx": 247,
+  "name": "Act02_Chapter01_Trial06",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\247_Act02_Chapter01_Trial06.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Trial06.txt",
+  "done": false
+ },
+ {
+  "idx": 248,
+  "name": "Act02_Chapter01_Trial07",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\248_Act02_Chapter01_Trial07.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Trial07.txt",
+  "done": false
+ },
+ {
+  "idx": 249,
+  "name": "Act02_Chapter01_Trial08",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\249_Act02_Chapter01_Trial08.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Trial08.txt",
+  "done": false
+ },
+ {
+  "idx": 250,
+  "name": "Act02_Chapter01_Trial09",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\250_Act02_Chapter01_Trial09.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Trial09.txt",
+  "done": false
+ },
+ {
+  "idx": 251,
+  "name": "Act02_Chapter01_Trial10",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\251_Act02_Chapter01_Trial10.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Trial10.txt",
+  "done": false
+ },
+ {
+  "idx": 252,
+  "name": "Act02_Chapter01_Trial11",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\252_Act02_Chapter01_Trial11.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Trial11.txt",
+  "done": false
+ },
+ {
+  "idx": 253,
+  "name": "Act02_Chapter01_Trial12",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\253_Act02_Chapter01_Trial12.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Trial12.txt",
+  "done": false
+ },
+ {
+  "idx": 254,
+  "name": "Act02_Chapter01_Trial13",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\254_Act02_Chapter01_Trial13.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_Trial13.txt",
+  "done": false
+ },
+ {
+  "idx": 255,
+  "name": "Act02_Chapter01_TrialInit",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\255_Act02_Chapter01_TrialInit.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter01_TrialInit.txt",
+  "done": false
+ },
+ {
+  "idx": 256,
+  "name": "Act02_Chapter02_Adv01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\256_Act02_Chapter02_Adv01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Adv01.txt",
+  "done": false
+ },
+ {
+  "idx": 257,
+  "name": "Act02_Chapter02_Adv02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\257_Act02_Chapter02_Adv02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Adv02.txt",
+  "done": false
+ },
+ {
+  "idx": 258,
+  "name": "Act02_Chapter02_Adv03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\258_Act02_Chapter02_Adv03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Adv03.txt",
+  "done": false
+ },
+ {
+  "idx": 259,
+  "name": "Act02_Chapter02_Adv04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\259_Act02_Chapter02_Adv04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Adv04.txt",
+  "done": false
+ },
+ {
+  "idx": 260,
+  "name": "Act02_Chapter02_Adv05",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\260_Act02_Chapter02_Adv05.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Adv05.txt",
+  "done": false
+ },
+ {
+  "idx": 261,
+  "name": "Act02_Chapter02_Adv06",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\261_Act02_Chapter02_Adv06.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Adv06.txt",
+  "done": false
+ },
+ {
+  "idx": 262,
+  "name": "Act02_Chapter02_Adv07",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\262_Act02_Chapter02_Adv07.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Adv07.txt",
+  "done": false
+ },
+ {
+  "idx": 263,
+  "name": "Act02_Chapter02_Adv08",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\263_Act02_Chapter02_Adv08.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Adv08.txt",
+  "done": false
+ },
+ {
+  "idx": 264,
+  "name": "Act02_Chapter02_Adv09",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\264_Act02_Chapter02_Adv09.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Adv09.txt",
+  "done": false
+ },
+ {
+  "idx": 265,
+  "name": "Act02_Chapter02_Adv10",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\265_Act02_Chapter02_Adv10.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Adv10.txt",
+  "done": false
+ },
+ {
+  "idx": 266,
+  "name": "Act02_Chapter02_Adv11",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\266_Act02_Chapter02_Adv11.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Adv11.txt",
+  "done": false
+ },
+ {
+  "idx": 267,
+  "name": "Act02_Chapter02_Adv12",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\267_Act02_Chapter02_Adv12.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Adv12.txt",
+  "done": false
+ },
+ {
+  "idx": 268,
+  "name": "Act02_Chapter02_Adv13",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\268_Act02_Chapter02_Adv13.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Adv13.txt",
+  "done": false
+ },
+ {
+  "idx": 269,
+  "name": "Act02_Chapter02_Adv14",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\269_Act02_Chapter02_Adv14.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Adv14.txt",
+  "done": false
+ },
+ {
+  "idx": 270,
+  "name": "Act02_Chapter02_Adv15",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\270_Act02_Chapter02_Adv15.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Adv15.txt",
+  "done": false
+ },
+ {
+  "idx": 271,
+  "name": "Act02_Chapter02_Adv16",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\271_Act02_Chapter02_Adv16.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Adv16.txt",
+  "done": false
+ },
+ {
+  "idx": 272,
+  "name": "Act02_Chapter02_Adv17",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\272_Act02_Chapter02_Adv17.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Adv17.txt",
+  "done": false
+ },
+ {
+  "idx": 273,
+  "name": "Act02_Chapter02_Adv18",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\273_Act02_Chapter02_Adv18.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Adv18.txt",
+  "done": false
+ },
+ {
+  "idx": 274,
+  "name": "Act02_Chapter02_Adv19",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\274_Act02_Chapter02_Adv19.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Adv19.txt",
+  "done": false
+ },
+ {
+  "idx": 275,
+  "name": "Act02_Chapter02_Adv20",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\275_Act02_Chapter02_Adv20.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Adv20.txt",
+  "done": false
+ },
+ {
+  "idx": 276,
+  "name": "Act02_Chapter02_Adv21",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\276_Act02_Chapter02_Adv21.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Adv21.txt",
+  "done": false
+ },
+ {
+  "idx": 277,
+  "name": "Act02_Chapter02_Bad01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\277_Act02_Chapter02_Bad01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Bad01.txt",
+  "done": false
+ },
+ {
+  "idx": 278,
+  "name": "Act02_Chapter02_Bad02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\278_Act02_Chapter02_Bad02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Bad02.txt",
+  "done": false
+ },
+ {
+  "idx": 279,
+  "name": "Act02_Chapter02_Trial00",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\279_Act02_Chapter02_Trial00.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Trial00.txt",
+  "done": false
+ },
+ {
+  "idx": 280,
+  "name": "Act02_Chapter02_Trial01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\280_Act02_Chapter02_Trial01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Trial01.txt",
+  "done": false
+ },
+ {
+  "idx": 281,
+  "name": "Act02_Chapter02_Trial02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\281_Act02_Chapter02_Trial02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Trial02.txt",
+  "done": false
+ },
+ {
+  "idx": 282,
+  "name": "Act02_Chapter02_Trial03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\282_Act02_Chapter02_Trial03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Trial03.txt",
+  "done": false
+ },
+ {
+  "idx": 283,
+  "name": "Act02_Chapter02_Trial04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\283_Act02_Chapter02_Trial04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Trial04.txt",
+  "done": false
+ },
+ {
+  "idx": 284,
+  "name": "Act02_Chapter02_Trial05",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\284_Act02_Chapter02_Trial05.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Trial05.txt",
+  "done": false
+ },
+ {
+  "idx": 285,
+  "name": "Act02_Chapter02_Trial06",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\285_Act02_Chapter02_Trial06.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Trial06.txt",
+  "done": false
+ },
+ {
+  "idx": 286,
+  "name": "Act02_Chapter02_Trial07",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\286_Act02_Chapter02_Trial07.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Trial07.txt",
+  "done": false
+ },
+ {
+  "idx": 287,
+  "name": "Act02_Chapter02_Trial08",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\287_Act02_Chapter02_Trial08.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Trial08.txt",
+  "done": false
+ },
+ {
+  "idx": 288,
+  "name": "Act02_Chapter02_Trial09",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\288_Act02_Chapter02_Trial09.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Trial09.txt",
+  "done": false
+ },
+ {
+  "idx": 289,
+  "name": "Act02_Chapter02_Trial10",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\289_Act02_Chapter02_Trial10.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Trial10.txt",
+  "done": false
+ },
+ {
+  "idx": 290,
+  "name": "Act02_Chapter02_Trial11",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\290_Act02_Chapter02_Trial11.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Trial11.txt",
+  "done": false
+ },
+ {
+  "idx": 291,
+  "name": "Act02_Chapter02_Trial12",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\291_Act02_Chapter02_Trial12.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Trial12.txt",
+  "done": false
+ },
+ {
+  "idx": 292,
+  "name": "Act02_Chapter02_Trial13",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\292_Act02_Chapter02_Trial13.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_Trial13.txt",
+  "done": false
+ },
+ {
+  "idx": 293,
+  "name": "Act02_Chapter02_TrialInit",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\293_Act02_Chapter02_TrialInit.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter02_TrialInit.txt",
+  "done": false
+ },
+ {
+  "idx": 294,
+  "name": "Act02_Chapter03_Adv01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\294_Act02_Chapter03_Adv01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Adv01.txt",
+  "done": false
+ },
+ {
+  "idx": 295,
+  "name": "Act02_Chapter03_Adv02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\295_Act02_Chapter03_Adv02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Adv02.txt",
+  "done": false
+ },
+ {
+  "idx": 296,
+  "name": "Act02_Chapter03_Adv03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\296_Act02_Chapter03_Adv03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Adv03.txt",
+  "done": false
+ },
+ {
+  "idx": 297,
+  "name": "Act02_Chapter03_Adv04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\297_Act02_Chapter03_Adv04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Adv04.txt",
+  "done": false
+ },
+ {
+  "idx": 298,
+  "name": "Act02_Chapter03_Adv05",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\298_Act02_Chapter03_Adv05.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Adv05.txt",
+  "done": false
+ },
+ {
+  "idx": 299,
+  "name": "Act02_Chapter03_Adv06",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\299_Act02_Chapter03_Adv06.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Adv06.txt",
+  "done": false
+ },
+ {
+  "idx": 300,
+  "name": "Act02_Chapter03_Adv07",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\300_Act02_Chapter03_Adv07.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Adv07.txt",
+  "done": false
+ },
+ {
+  "idx": 301,
+  "name": "Act02_Chapter03_Adv08",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\301_Act02_Chapter03_Adv08.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Adv08.txt",
+  "done": false
+ },
+ {
+  "idx": 302,
+  "name": "Act02_Chapter03_Adv09",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\302_Act02_Chapter03_Adv09.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Adv09.txt",
+  "done": false
+ },
+ {
+  "idx": 303,
+  "name": "Act02_Chapter03_Adv10",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\303_Act02_Chapter03_Adv10.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Adv10.txt",
+  "done": false
+ },
+ {
+  "idx": 304,
+  "name": "Act02_Chapter03_Adv11",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\304_Act02_Chapter03_Adv11.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Adv11.txt",
+  "done": false
+ },
+ {
+  "idx": 305,
+  "name": "Act02_Chapter03_Adv12",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\305_Act02_Chapter03_Adv12.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Adv12.txt",
+  "done": false
+ },
+ {
+  "idx": 306,
+  "name": "Act02_Chapter03_Adv13",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\306_Act02_Chapter03_Adv13.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Adv13.txt",
+  "done": false
+ },
+ {
+  "idx": 307,
+  "name": "Act02_Chapter03_Adv14",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\307_Act02_Chapter03_Adv14.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Adv14.txt",
+  "done": false
+ },
+ {
+  "idx": 308,
+  "name": "Act02_Chapter03_Adv15",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\308_Act02_Chapter03_Adv15.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Adv15.txt",
+  "done": false
+ },
+ {
+  "idx": 309,
+  "name": "Act02_Chapter03_Bad01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\309_Act02_Chapter03_Bad01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Bad01.txt",
+  "done": false
+ },
+ {
+  "idx": 310,
+  "name": "Act02_Chapter03_Trial00",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\310_Act02_Chapter03_Trial00.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Trial00.txt",
+  "done": false
+ },
+ {
+  "idx": 311,
+  "name": "Act02_Chapter03_Trial01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\311_Act02_Chapter03_Trial01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Trial01.txt",
+  "done": false
+ },
+ {
+  "idx": 312,
+  "name": "Act02_Chapter03_Trial02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\312_Act02_Chapter03_Trial02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Trial02.txt",
+  "done": false
+ },
+ {
+  "idx": 313,
+  "name": "Act02_Chapter03_Trial03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\313_Act02_Chapter03_Trial03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Trial03.txt",
+  "done": false
+ },
+ {
+  "idx": 314,
+  "name": "Act02_Chapter03_Trial04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\314_Act02_Chapter03_Trial04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Trial04.txt",
+  "done": false
+ },
+ {
+  "idx": 315,
+  "name": "Act02_Chapter03_Trial05",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\315_Act02_Chapter03_Trial05.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Trial05.txt",
+  "done": false
+ },
+ {
+  "idx": 316,
+  "name": "Act02_Chapter03_Trial06",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\316_Act02_Chapter03_Trial06.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Trial06.txt",
+  "done": false
+ },
+ {
+  "idx": 317,
+  "name": "Act02_Chapter03_Trial07",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\317_Act02_Chapter03_Trial07.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Trial07.txt",
+  "done": false
+ },
+ {
+  "idx": 318,
+  "name": "Act02_Chapter03_Trial08",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\318_Act02_Chapter03_Trial08.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Trial08.txt",
+  "done": false
+ },
+ {
+  "idx": 319,
+  "name": "Act02_Chapter03_Trial09",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\319_Act02_Chapter03_Trial09.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Trial09.txt",
+  "done": false
+ },
+ {
+  "idx": 320,
+  "name": "Act02_Chapter03_Trial10",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\320_Act02_Chapter03_Trial10.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Trial10.txt",
+  "done": false
+ },
+ {
+  "idx": 321,
+  "name": "Act02_Chapter03_Trial11",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\321_Act02_Chapter03_Trial11.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Trial11.txt",
+  "done": false
+ },
+ {
+  "idx": 322,
+  "name": "Act02_Chapter03_Trial12",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\322_Act02_Chapter03_Trial12.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Trial12.txt",
+  "done": false
+ },
+ {
+  "idx": 323,
+  "name": "Act02_Chapter03_Trial13",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\323_Act02_Chapter03_Trial13.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Trial13.txt",
+  "done": false
+ },
+ {
+  "idx": 324,
+  "name": "Act02_Chapter03_Trial14",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\324_Act02_Chapter03_Trial14.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_Trial14.txt",
+  "done": false
+ },
+ {
+  "idx": 325,
+  "name": "Act02_Chapter03_TrialInit",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\325_Act02_Chapter03_TrialInit.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter03_TrialInit.txt",
+  "done": false
+ },
+ {
+  "idx": 326,
+  "name": "Act02_Chapter04_Adv01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\326_Act02_Chapter04_Adv01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Adv01.txt",
+  "done": false
+ },
+ {
+  "idx": 327,
+  "name": "Act02_Chapter04_Adv02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\327_Act02_Chapter04_Adv02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Adv02.txt",
+  "done": false
+ },
+ {
+  "idx": 328,
+  "name": "Act02_Chapter04_Adv03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\328_Act02_Chapter04_Adv03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Adv03.txt",
+  "done": false
+ },
+ {
+  "idx": 329,
+  "name": "Act02_Chapter04_Adv04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\329_Act02_Chapter04_Adv04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Adv04.txt",
+  "done": false
+ },
+ {
+  "idx": 330,
+  "name": "Act02_Chapter04_Adv05",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\330_Act02_Chapter04_Adv05.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Adv05.txt",
+  "done": false
+ },
+ {
+  "idx": 331,
+  "name": "Act02_Chapter04_Adv06",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\331_Act02_Chapter04_Adv06.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Adv06.txt",
+  "done": false
+ },
+ {
+  "idx": 332,
+  "name": "Act02_Chapter04_Adv07",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\332_Act02_Chapter04_Adv07.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Adv07.txt",
+  "done": false
+ },
+ {
+  "idx": 333,
+  "name": "Act02_Chapter04_Adv08",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\333_Act02_Chapter04_Adv08.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Adv08.txt",
+  "done": false
+ },
+ {
+  "idx": 334,
+  "name": "Act02_Chapter04_Adv09",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\334_Act02_Chapter04_Adv09.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Adv09.txt",
+  "done": false
+ },
+ {
+  "idx": 335,
+  "name": "Act02_Chapter04_Adv10",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\335_Act02_Chapter04_Adv10.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Adv10.txt",
+  "done": false
+ },
+ {
+  "idx": 336,
+  "name": "Act02_Chapter04_Adv11",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\336_Act02_Chapter04_Adv11.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Adv11.txt",
+  "done": false
+ },
+ {
+  "idx": 337,
+  "name": "Act02_Chapter04_Adv12",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\337_Act02_Chapter04_Adv12.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Adv12.txt",
+  "done": false
+ },
+ {
+  "idx": 338,
+  "name": "Act02_Chapter04_Adv13",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\338_Act02_Chapter04_Adv13.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Adv13.txt",
+  "done": false
+ },
+ {
+  "idx": 339,
+  "name": "Act02_Chapter04_Adv14",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\339_Act02_Chapter04_Adv14.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Adv14.txt",
+  "done": false
+ },
+ {
+  "idx": 340,
+  "name": "Act02_Chapter04_Adv15",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\340_Act02_Chapter04_Adv15.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Adv15.txt",
+  "done": false
+ },
+ {
+  "idx": 341,
+  "name": "Act02_Chapter04_Adv16",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\341_Act02_Chapter04_Adv16.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Adv16.txt",
+  "done": false
+ },
+ {
+  "idx": 342,
+  "name": "Act02_Chapter04_Bad01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\342_Act02_Chapter04_Bad01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Bad01.txt",
+  "done": false
+ },
+ {
+  "idx": 343,
+  "name": "Act02_Chapter04_Bad02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\343_Act02_Chapter04_Bad02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Bad02.txt",
+  "done": false
+ },
+ {
+  "idx": 344,
+  "name": "Act02_Chapter04_Bad03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\344_Act02_Chapter04_Bad03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Bad03.txt",
+  "done": false
+ },
+ {
+  "idx": 345,
+  "name": "Act02_Chapter04_Bad04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\345_Act02_Chapter04_Bad04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Bad04.txt",
+  "done": false
+ },
+ {
+  "idx": 346,
+  "name": "Act02_Chapter04_Trial00",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\346_Act02_Chapter04_Trial00.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Trial00.txt",
+  "done": false
+ },
+ {
+  "idx": 347,
+  "name": "Act02_Chapter04_Trial01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\347_Act02_Chapter04_Trial01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Trial01.txt",
+  "done": false
+ },
+ {
+  "idx": 348,
+  "name": "Act02_Chapter04_Trial02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\348_Act02_Chapter04_Trial02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Trial02.txt",
+  "done": false
+ },
+ {
+  "idx": 349,
+  "name": "Act02_Chapter04_Trial03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\349_Act02_Chapter04_Trial03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Trial03.txt",
+  "done": false
+ },
+ {
+  "idx": 350,
+  "name": "Act02_Chapter04_Trial04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\350_Act02_Chapter04_Trial04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Trial04.txt",
+  "done": false
+ },
+ {
+  "idx": 351,
+  "name": "Act02_Chapter04_Trial05",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\351_Act02_Chapter04_Trial05.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Trial05.txt",
+  "done": false
+ },
+ {
+  "idx": 352,
+  "name": "Act02_Chapter04_Trial06",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\352_Act02_Chapter04_Trial06.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Trial06.txt",
+  "done": false
+ },
+ {
+  "idx": 353,
+  "name": "Act02_Chapter04_Trial07",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\353_Act02_Chapter04_Trial07.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Trial07.txt",
+  "done": false
+ },
+ {
+  "idx": 354,
+  "name": "Act02_Chapter04_Trial08",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\354_Act02_Chapter04_Trial08.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Trial08.txt",
+  "done": false
+ },
+ {
+  "idx": 355,
+  "name": "Act02_Chapter04_Trial09",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\355_Act02_Chapter04_Trial09.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Trial09.txt",
+  "done": false
+ },
+ {
+  "idx": 356,
+  "name": "Act02_Chapter04_Trial10",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\356_Act02_Chapter04_Trial10.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Trial10.txt",
+  "done": false
+ },
+ {
+  "idx": 357,
+  "name": "Act02_Chapter04_Trial11",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\357_Act02_Chapter04_Trial11.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_Trial11.txt",
+  "done": false
+ },
+ {
+  "idx": 358,
+  "name": "Act02_Chapter04_TrialInit",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\358_Act02_Chapter04_TrialInit.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter04_TrialInit.txt",
+  "done": false
+ },
+ {
+  "idx": 359,
+  "name": "Act02_Chapter05_Adv01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\359_Act02_Chapter05_Adv01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Adv01.txt",
+  "done": false
+ },
+ {
+  "idx": 360,
+  "name": "Act02_Chapter05_Adv02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\360_Act02_Chapter05_Adv02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Adv02.txt",
+  "done": false
+ },
+ {
+  "idx": 361,
+  "name": "Act02_Chapter05_Adv03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\361_Act02_Chapter05_Adv03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Adv03.txt",
+  "done": false
+ },
+ {
+  "idx": 362,
+  "name": "Act02_Chapter05_Adv04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\362_Act02_Chapter05_Adv04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Adv04.txt",
+  "done": false
+ },
+ {
+  "idx": 363,
+  "name": "Act02_Chapter05_Adv05",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\363_Act02_Chapter05_Adv05.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Adv05.txt",
+  "done": false
+ },
+ {
+  "idx": 364,
+  "name": "Act02_Chapter05_Adv06",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\364_Act02_Chapter05_Adv06.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Adv06.txt",
+  "done": false
+ },
+ {
+  "idx": 365,
+  "name": "Act02_Chapter05_Adv07",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\365_Act02_Chapter05_Adv07.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Adv07.txt",
+  "done": false
+ },
+ {
+  "idx": 366,
+  "name": "Act02_Chapter05_Adv08",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\366_Act02_Chapter05_Adv08.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Adv08.txt",
+  "done": false
+ },
+ {
+  "idx": 367,
+  "name": "Act02_Chapter05_Adv09",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\367_Act02_Chapter05_Adv09.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Adv09.txt",
+  "done": false
+ },
+ {
+  "idx": 368,
+  "name": "Act02_Chapter05_Bad01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\368_Act02_Chapter05_Bad01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Bad01.txt",
+  "done": false
+ },
+ {
+  "idx": 369,
+  "name": "Act02_Chapter05_Trial00",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\369_Act02_Chapter05_Trial00.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial00.txt",
+  "done": false
+ },
+ {
+  "idx": 370,
+  "name": "Act02_Chapter05_Trial01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\370_Act02_Chapter05_Trial01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial01.txt",
+  "done": false
+ },
+ {
+  "idx": 371,
+  "name": "Act02_Chapter05_Trial02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\371_Act02_Chapter05_Trial02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial02.txt",
+  "done": false
+ },
+ {
+  "idx": 372,
+  "name": "Act02_Chapter05_Trial03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\372_Act02_Chapter05_Trial03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial03.txt",
+  "done": false
+ },
+ {
+  "idx": 373,
+  "name": "Act02_Chapter05_Trial04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\373_Act02_Chapter05_Trial04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial04.txt",
+  "done": false
+ },
+ {
+  "idx": 374,
+  "name": "Act02_Chapter05_Trial05",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\374_Act02_Chapter05_Trial05.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial05.txt",
+  "done": false
+ },
+ {
+  "idx": 375,
+  "name": "Act02_Chapter05_Trial06",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\375_Act02_Chapter05_Trial06.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial06.txt",
+  "done": false
+ },
+ {
+  "idx": 376,
+  "name": "Act02_Chapter05_Trial07",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\376_Act02_Chapter05_Trial07.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial07.txt",
+  "done": false
+ },
+ {
+  "idx": 377,
+  "name": "Act02_Chapter05_Trial08",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\377_Act02_Chapter05_Trial08.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial08.txt",
+  "done": false
+ },
+ {
+  "idx": 378,
+  "name": "Act02_Chapter05_Trial09",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\378_Act02_Chapter05_Trial09.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial09.txt",
+  "done": false
+ },
+ {
+  "idx": 379,
+  "name": "Act02_Chapter05_Trial10",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\379_Act02_Chapter05_Trial10.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial10.txt",
+  "done": false
+ },
+ {
+  "idx": 380,
+  "name": "Act02_Chapter05_Trial11",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\380_Act02_Chapter05_Trial11.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial11.txt",
+  "done": false
+ },
+ {
+  "idx": 381,
+  "name": "Act02_Chapter05_Trial12",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\381_Act02_Chapter05_Trial12.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial12.txt",
+  "done": false
+ },
+ {
+  "idx": 382,
+  "name": "Act02_Chapter05_Trial13",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\382_Act02_Chapter05_Trial13.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial13.txt",
+  "done": false
+ },
+ {
+  "idx": 383,
+  "name": "Act02_Chapter05_Trial14",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\383_Act02_Chapter05_Trial14.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial14.txt",
+  "done": false
+ },
+ {
+  "idx": 384,
+  "name": "Act02_Chapter05_Trial15",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\384_Act02_Chapter05_Trial15.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial15.txt",
+  "done": false
+ },
+ {
+  "idx": 385,
+  "name": "Act02_Chapter05_Trial16",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\385_Act02_Chapter05_Trial16.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial16.txt",
+  "done": false
+ },
+ {
+  "idx": 386,
+  "name": "Act02_Chapter05_Trial17",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\386_Act02_Chapter05_Trial17.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial17.txt",
+  "done": false
+ },
+ {
+  "idx": 387,
+  "name": "Act02_Chapter05_Trial18",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\387_Act02_Chapter05_Trial18.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial18.txt",
+  "done": false
+ },
+ {
+  "idx": 388,
+  "name": "Act02_Chapter05_Trial19",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\388_Act02_Chapter05_Trial19.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial19.txt",
+  "done": false
+ },
+ {
+  "idx": 389,
+  "name": "Act02_Chapter05_Trial20",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\389_Act02_Chapter05_Trial20.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial20.txt",
+  "done": false
+ },
+ {
+  "idx": 390,
+  "name": "Act02_Chapter05_Trial21",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\390_Act02_Chapter05_Trial21.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial21.txt",
+  "done": false
+ },
+ {
+  "idx": 391,
+  "name": "Act02_Chapter05_Trial22",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\391_Act02_Chapter05_Trial22.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial22.txt",
+  "done": false
+ },
+ {
+  "idx": 392,
+  "name": "Act02_Chapter05_Trial23",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\392_Act02_Chapter05_Trial23.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial23.txt",
+  "done": false
+ },
+ {
+  "idx": 393,
+  "name": "Act02_Chapter05_Trial24",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\393_Act02_Chapter05_Trial24.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial24.txt",
+  "done": false
+ },
+ {
+  "idx": 394,
+  "name": "Act02_Chapter05_Trial25",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\394_Act02_Chapter05_Trial25.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial25.txt",
+  "done": false
+ },
+ {
+  "idx": 395,
+  "name": "Act02_Chapter05_Trial26",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\395_Act02_Chapter05_Trial26.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial26.txt",
+  "done": false
+ },
+ {
+  "idx": 396,
+  "name": "Act02_Chapter05_Trial27",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\396_Act02_Chapter05_Trial27.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial27.txt",
+  "done": false
+ },
+ {
+  "idx": 397,
+  "name": "Act02_Chapter05_Trial28",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\397_Act02_Chapter05_Trial28.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_Trial28.txt",
+  "done": false
+ },
+ {
+  "idx": 398,
+  "name": "Act02_Chapter05_TrialInit",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\398_Act02_Chapter05_TrialInit.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter05_TrialInit.txt",
+  "done": false
+ },
+ {
+  "idx": 399,
+  "name": "Act02_Chapter06_Trial00",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\399_Act02_Chapter06_Trial00.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter06_Trial00.txt",
+  "done": false
+ },
+ {
+  "idx": 400,
+  "name": "Act02_Chapter06_Trial01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\400_Act02_Chapter06_Trial01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter06_Trial01.txt",
+  "done": false
+ },
+ {
+  "idx": 401,
+  "name": "Act02_Chapter06_Trial02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\401_Act02_Chapter06_Trial02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter06_Trial02.txt",
+  "done": false
+ },
+ {
+  "idx": 402,
+  "name": "Act02_Chapter06_Trial03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\402_Act02_Chapter06_Trial03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter06_Trial03.txt",
+  "done": false
+ },
+ {
+  "idx": 403,
+  "name": "Act02_Chapter06_Trial04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\403_Act02_Chapter06_Trial04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter06_Trial04.txt",
+  "done": false
+ },
+ {
+  "idx": 404,
+  "name": "Act02_Chapter06_Trial05",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\404_Act02_Chapter06_Trial05.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter06_Trial05.txt",
+  "done": false
+ },
+ {
+  "idx": 405,
+  "name": "Act02_Chapter06_Trial06",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\405_Act02_Chapter06_Trial06.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter06_Trial06.txt",
+  "done": false
+ },
+ {
+  "idx": 406,
+  "name": "Act02_Chapter06_Trial07",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\406_Act02_Chapter06_Trial07.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter06_Trial07.txt",
+  "done": false
+ },
+ {
+  "idx": 407,
+  "name": "Act02_Chapter06_Trial08",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\407_Act02_Chapter06_Trial08.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter06_Trial08.txt",
+  "done": false
+ },
+ {
+  "idx": 408,
+  "name": "Act02_Chapter06_Trial09",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\408_Act02_Chapter06_Trial09.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter06_Trial09.txt",
+  "done": false
+ },
+ {
+  "idx": 409,
+  "name": "Act02_Chapter06_Trial10",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\409_Act02_Chapter06_Trial10.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter06_Trial10.txt",
+  "done": false
+ },
+ {
+  "idx": 410,
+  "name": "Act02_Chapter06_TrialInit",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\410_Act02_Chapter06_TrialInit.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Act02_Chapter06_TrialInit.txt",
+  "done": false
+ },
+ {
+  "idx": 411,
+  "name": "CommonBad01",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\411_CommonBad01.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\CommonBad01.txt",
+  "done": false
+ },
+ {
+  "idx": 412,
+  "name": "CommonBad02",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\412_CommonBad02.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\CommonBad02.txt",
+  "done": false
+ },
+ {
+  "idx": 413,
+  "name": "CommonBad03",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\413_CommonBad03.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\CommonBad03.txt",
+  "done": false
+ },
+ {
+  "idx": 414,
+  "name": "CommonBad04",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\414_CommonBad04.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\CommonBad04.txt",
+  "done": false
+ },
+ {
+  "idx": 415,
+  "name": "CommonBad05",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\415_CommonBad05.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\CommonBad05.txt",
+  "done": false
+ },
+ {
+  "idx": 416,
+  "name": "CommonBad06",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\416_CommonBad06.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\CommonBad06.txt",
+  "done": false
+ },
+ {
+  "idx": 417,
+  "name": "CommonBad07",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\417_CommonBad07.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\CommonBad07.txt",
+  "done": false
+ },
+ {
+  "idx": 418,
+  "name": "CommonBad08",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\418_CommonBad08.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\CommonBad08.txt",
+  "done": false
+ },
+ {
+  "idx": 419,
+  "name": "CommonBad09",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\419_CommonBad09.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\CommonBad09.txt",
+  "done": false
+ },
+ {
+  "idx": 420,
+  "name": "CommonBad10",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\420_CommonBad10.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\CommonBad10.txt",
+  "done": false
+ },
+ {
+  "idx": 421,
+  "name": "CommonBad11",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\421_CommonBad11.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\CommonBad11.txt",
+  "done": false
+ },
+ {
+  "idx": 422,
+  "name": "CommonBad12",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\422_CommonBad12.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\CommonBad12.txt",
+  "done": false
+ },
+ {
+  "idx": 423,
+  "name": "CommonBad13",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\423_CommonBad13.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\CommonBad13.txt",
+  "done": false
+ },
+ {
+  "idx": 424,
+  "name": "Debug_Actors",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\424_Debug_Actors.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Debug_Actors.txt",
+  "done": false
+ },
+ {
+  "idx": 425,
+  "name": "Debug_Animate",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\425_Debug_Animate.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Debug_Animate.txt",
+  "done": false
+ },
+ {
+  "idx": 426,
+  "name": "Debug_Audio",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\426_Debug_Audio.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Debug_Audio.txt",
+  "done": false
+ },
+ {
+  "idx": 427,
+  "name": "Debug_Empty",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\427_Debug_Empty.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Debug_Empty.txt",
+  "done": false
+ },
+ {
+  "idx": 428,
+  "name": "Debug_EndingCredits",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\428_Debug_EndingCredits.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Debug_EndingCredits.txt",
+  "done": false
+ },
+ {
+  "idx": 429,
+  "name": "Debug_Home",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\429_Debug_Home.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Debug_Home.txt",
+  "done": false
+ },
+ {
+  "idx": 430,
+  "name": "Debug_Mask",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\430_Debug_Mask.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Debug_Mask.txt",
+  "done": false
+ },
+ {
+  "idx": 431,
+  "name": "Debug_Movie",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\431_Debug_Movie.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Debug_Movie.txt",
+  "done": false
+ },
+ {
+  "idx": 432,
+  "name": "Debug_MultipliableActors",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\432_Debug_MultipliableActors.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Debug_MultipliableActors.txt",
+  "done": false
+ },
+ {
+  "idx": 433,
+  "name": "Debug_SoundTest",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\433_Debug_SoundTest.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Debug_SoundTest.txt",
+  "done": false
+ },
+ {
+  "idx": 434,
+  "name": "Debug_Spawn",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\434_Debug_Spawn.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Debug_Spawn.txt",
+  "done": false
+ },
+ {
+  "idx": 435,
+  "name": "Debug_Text",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\435_Debug_Text.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Debug_Text.txt",
+  "done": false
+ },
+ {
+  "idx": 436,
+  "name": "Debug_Transition",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\436_Debug_Transition.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Debug_Transition.txt",
+  "done": false
+ },
+ {
+  "idx": 437,
+  "name": "Debug_Trial",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\437_Debug_Trial.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Debug_Trial.txt",
+  "done": false
+ },
+ {
+  "idx": 438,
+  "name": "Debug_Ui",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\438_Debug_Ui.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Debug_Ui.txt",
+  "done": false
+ },
+ {
+  "idx": 439,
+  "name": "Debug_WitchBook",
+  "path": "C:/Users/kikik/manosaba_mod\\queue\\439_Debug_WitchBook.txt",
+  "out": "C:/Users/kikik/manosaba_mod\\thai_translations\\Debug_WitchBook.txt",
+  "done": false
+ }
+]

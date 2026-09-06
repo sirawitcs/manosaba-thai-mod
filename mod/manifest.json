@@ -1,0 +1,33 @@
+{
+  "files": {
+    "README_TH.txt": "05837b0d5a351a0d968e017ff61be992c4bac44ec62a58662f34b4d8702df88a",
+    "manosaba_Data/StreamingAssets/config.json": "cad9f1ff6a0ab42000185974a18bd43e58e29510ca1211a421cacba7ba2e840d",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-data_assets_all.bundle": "dea5968d0d85d7112bf24d66bb884b90fccf7cad0839ca65853699665d6a54b3",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-fonts-sourcehanserifsc_assets_all.bundle": "d27eaeb7757eb655d8efd082c3c896cc6a8b4525db1186648316fc691370f395",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-act01_chapter01_advbad_assets_all.bundle": "3dd3d9a262e81ed5ff338ac05bb5d701fdc68a461790c54515fd8cd52f189d63",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-act01_chapter01_trial_assets_all.bundle": "6a3999222ccd9b0e1c351594f178b1db29266b51687ee5993f504a37980dbbf2",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-act01_chapter02_advbad_assets_all.bundle": "9f790c494899cf5065d93ad3e8e3bfee9f6047bad7ab24271068387de8e5137f",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-act01_chapter02_trial_assets_all.bundle": "1964cdce585b8b63b14aee5e9afe3b076a4decd190f3b15a0c70359e656ecae9",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-act01_chapter03_advbad_assets_all.bundle": "7851f7d7a993cf3202208cd5acc79ffd867a9d31b827621e389c92b22cc7bc08",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-act01_chapter03_trial_assets_all.bundle": "029d05c26530e18888670124fb508f566dbcd7009bea509ba24932d06bd0b692",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-act01_chapter04_advbad_assets_all.bundle": "71eeb571820efd86b13b93c7ddf0765b6167e51e6488f4945ca2e2fab86ec1d6",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-act01_chapter04_trial_assets_all.bundle": "d6a70196f0f6d7457df55f19fff09fb40dc6b9a5915585e69dfa2dd56c93bd1c",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-act01_chapter05_advbad_assets_all.bundle": "7687cdfafda9fa789e438842cb9bc06243c5174b4ad1ff903ebf2f77725ed9e2",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-act01_chapter05_trial_assets_all.bundle": "44800cdc25ae3b5186cf37cb575f08e8d226b6fd6e237ef88506142310632f9a",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-act02_chapter01_advbad_assets_all.bundle": "051ef87ced1a92ad277e890232041882e4a16fda605cfa750cc079999ccff788",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-act02_chapter01_trial_assets_all.bundle": "a163cda27733fa6e30036d872b4fc014417d660ac4be70c219c357c03c8d1926",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-act02_chapter02_advbad_assets_all.bundle": "ee1a9bcbbbee707f4aa4f2e64429786aa208deda11fc287d07dfa2acfa77bcaa",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-act02_chapter02_trial_assets_all.bundle": "1d896684e6d594bca67b842a595cccc83e974f75e84feaac7365f4647cb169fa",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-act02_chapter03_advbad_assets_all.bundle": "5ccac14c0e211e55acee3070f207fb566b5bce0f314d8b7c49a3e9100152c656",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-act02_chapter03_trial_assets_all.bundle": "172f228b5dc29bdc887895f75d3d6e72662b73ef82bcd99cf15d4c8ca9c6bd37",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-act02_chapter04_advbad_assets_all.bundle": "e9ae5b1bdcb0775e5c1ebece600defa311ad407383a44420ba231154725afb69",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-act02_chapter04_trial_assets_all.bundle": "59196e6ae944b30812e164a23e79dfb01cceee985f6d2d8e7123f5099e5899e2",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-act02_chapter05_advbad_assets_all.bundle": "35d1d2c06791d72d8057235a428ece615a3d9ed99c13a03fdf4dc54549bdc486",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-act02_chapter05_trial_assets_all.bundle": "a55b595cc827cb5868305d189946acdb04786829d5b3629d9ad0ba235a656ce5",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-act02_chapter06_trial_assets_all.bundle": "6adfe550a51e5b0cbddf69e121a8cbe05ce6b564426d279a15c608726cb0a8e1",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-common_assets_all.bundle": "07d9d604fabf0ec7153e331f41cfbb24e280ee0ffa76dc0ce6326df3c9f25ad2",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-debug_assets_all.bundle": "f9f3f0cb751588d582bc41f9cf472b7e05c616dc7474ea69a0e5b70238d6641e",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-scripts-system_assets_all.bundle": "8bfe517107329559ff7b0e6c79407566b40ff65f40e9e76d06afde988df4433a",
+    "manosaba_Data/StreamingAssets/aa/StandaloneWindows64/general-localization-zhhans-text_assets_all.bundle": "ea91a0a8eeeec18b1874024f0d51b9cebe8011354219efe52f2e1b4bc4b26b42"
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "available_text_lang": [
+        "ja",
+        "zh-Hans"
+    ],
+    "unavailable_lang_fallback": {
+        "default": "ja",
+        "zh-Hant": "zh-Hans"
+    }
+}
