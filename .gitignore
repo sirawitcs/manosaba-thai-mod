@@ -33,7 +33,7 @@ NUL
 *.bak
 *.pyc
 
-# Keep project scripts and package builder
+# Keep package builder only; ignore root helper scripts
 !.gitignore
-!*.py
+/*.py
 !package_mod.py
