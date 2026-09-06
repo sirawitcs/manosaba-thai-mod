@@ -1,0 +1,39 @@
+# Local/generated workbench
+workbench/
+workbench_before_reset_*/
+backup/
+backups/
+work/
+queue/
+image_after/
+image_probe/
+image_probe_zh/
+zh_samples/
+thai_bundles/
+thai_loc_docs/
+thai_translations/
+__pycache__/
+
+# Extracted/intermediate translation data
+*.json
+*.bundle
+*.ttf
+*.txt
+!GUIDELINES_th.md
+!mod/README_TH.txt
+!mod/**/*.bundle
+!mod/**/*.json
+!manifest.json
+!mod/manifest.json
+
+# Generated helper/output files
+NUL
+*.log
+*.tmp
+*.bak
+*.pyc
+
+# Keep project scripts and package builder
+!.gitignore
+!*.py
+!package_mod.py
