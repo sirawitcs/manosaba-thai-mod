@@ -1,12 +1,22 @@
-# Manosaba Thai Mod
+# Manosaba Thai Mod — v1.1.0-beta
 
-## ติดตั้ง
+ม็อดภาษาไทยสำหรับ Manosaba / 牢屋敷の魔女裁判
+
+สถานะ:
+- แปลแล้ว 440 scripts / 34,836 blocks
+- ตรวจ `__TH__` marker: 0
+- ใช้ locale slot `zh-Hans`
+- รวมข้อความไทย ชื่อผู้พูดไทย และฟอนต์ไทย PUA
+
+## วิธีติดตั้ง
+
 1. ปิดเกม
 2. สำรองโฟลเดอร์ `manosaba_Data/StreamingAssets`
 3. คัดลอกโฟลเดอร์ `manosaba_Data` จากแพ็กนี้ไปวางทับโฟลเดอร์เกม
-4. เปิดเกม แล้วเลือกภาษา `zh-Hans`
+4. เปิดเกม แล้วเลือกภาษา `简体中文 / zh-Hans`
 
-โฟลเดอร์ปลายทาง:
-`manosaba_Data/StreamingAssets/aa/StandaloneWindows64/`
+เกมไม่มี locale `th` ใน catalog จึงใช้ช่อง `zh-Hans` โหลดภาษาไทย
 
-แพ็กนี้รวม localization ภาษาไทย ชื่อผู้พูดภาษาไทย และฟอนต์ไทย PUA แล้ว
+ไฟล์ในแพ็กนี้เป็นไฟล์ม็อดเท่านั้น ไม่รวมไฟล์เกมทั้งหมด
+
+อัปเดต: 2026-09-06
